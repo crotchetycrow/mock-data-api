@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "fname": "John",
+      "lname": "Krill",
+      "email": "johnkrill@email.com",
+      "preferences": [
+        {
+          "pokemon": "Venasaur",
+          "starwars": "Luke Skywalker"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "fname": "Keith",
+      "lname": "Kale",
+      "email": "keithkale@email.com",
+      "preferences": [
+        {
+          "pokemon": "Charizard",
+          "starwars": "Yoda"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fname": "Jane-K",
+      "lname": "Rill",
+      "email": "janekrill@email.com",
+      "preferences": [
+        {
+          "pokemon": "Blastoise",
+          "starwars": "Darth Vader"
+        }
+      ]
+    }    
+  ]
+}

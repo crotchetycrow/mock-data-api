@@ -2,6 +2,7 @@
   "members": [
     {
       "id": 0,
+      "img": "https://img.icons8.com/cotton/64/000000/doctor-skin-type-3.png",
       "fname": "John",
       "lname": "Krill",
       "email": "johnkrill@email.com",
@@ -16,6 +17,7 @@
     },
     {
       "id": 1,
+      "img": "https://img.icons8.com/cotton/64/000000/technical-support.png",
       "fname": "Keith",
       "lname": "Kale",
       "email": "keithkale@email.com",
@@ -30,6 +32,7 @@
     },
     {
       "id": 2,
+      "img": "https://img.icons8.com/cotton/64/000000/pupil-female--v2.png",
       "fname": "Jane-K",
       "lname": "Rill",
       "email": "janekrill@email.com",
